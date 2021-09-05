@@ -19,7 +19,7 @@ public class BicycleChange {
     private static int numberOfBicycles = 0;
 
         
-    public Bicycle(int startCadence,
+    public BicycleChange(int startCadence,
                    int startSpeed,
                    int startGear) {
         gear = startGear;
